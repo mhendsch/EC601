@@ -16,7 +16,7 @@ The first step in this project will be to find datasets that have health data fr
 I’ve found datasets that may work [here](https://www.kaggle.com/datasets/ziya07/wearable-sports-health-monitoring-dataset) and [here](https://cseweb.ucsd.edu/~jmcauley/datasets/fitrec.html), and will continue to look for more. 
 
 ### Clean/Preprocess the Data
-After I have the data, I have to preprocess it. This will involve cleaning and normalizing the data, if they haven’t been already. I then have to decide which features I want to train on. As mentioned in Find Wearable Datasets, I imagine heart rate and activity details will be the most relevant. Data such as sleep score and stress levels could also prove useful.
+After I have the data, I have to preprocess it. This will involve cleaning and normalizing the data, if they haven’t been already. I then have to decide which features I want to train on. As mentioned in *Find Wearable Datasets*, I imagine heart rate and activity details will be the most relevant. Data such as sleep score and stress levels could also prove useful.
 
 ### Choose a Model
 From my research [3], it seems that Neural Networks are the most common type of model to predict athlete performance. I’ll probably end up using a neural network, but I may try other models, such as an SVM or decision tree classifier, to compare their performance. The important thing is to choose a model that can handle data with a high dimensionality, as wearable devices tend to capture many different types of data. This step will depend on the dataset I end up using. 

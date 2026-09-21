@@ -13,7 +13,7 @@ My proposed approach consists of 5 steps, outlined below.  These steps are gener
 
 ### Find Wearable Health Datasets
 The first step in this project will be to find datasets that have health data from wearable devices. Preferably, these datasets will have metrics such as heartrate, activity duration, activity intensity, activity type, as well as pace indicators such as average running or swimming pace. 
-I’ve found one such dataset that may work [here](https://www.kaggle.com/datasets/ziya07/wearable-sports-health-monitoring-dataset), and will continue to look for more. 
+I’ve found datasets that may work [here](https://www.kaggle.com/datasets/ziya07/wearable-sports-health-monitoring-dataset) and [here](https://cseweb.ucsd.edu/~jmcauley/datasets/fitrec.html), and will continue to look for more. 
 
 ### Clean/Preprocess the Data
 After I have the data, I have to preprocess it. This will involve cleaning and normalizing the data, if they haven’t been already. I then have to decide which features I want to train on. As mentioned in Find Wearable Datasets, I imagine heart rate and activity details will be the most relevant. Data such as sleep score and stress levels could also prove useful.

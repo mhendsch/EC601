@@ -35,7 +35,7 @@ At the end of two weeks, we will show a program predicting user training outcome
 We change direction if we cannot find the necessary datasets.
 
 ## Evaluation
-Our system will accurately detect and record health data within 5% of the values current recorded by products on the market (such as apple watches). It will also predict training outcomes within 10% of the actual measured outcomes. Of amateur athletes who test the product, at least 80% of them will be satisfied with it and at least 90% will find the data that the product provides "understandable." 
+Our system will first be able to find a pattern between recordable health data and athletic performance. From there, it will detect and record health data within 5% of the values currently recorded by products on the market. It will also predict training outcomes within 10% of the actual measured outcomes. If these previous evaluations are met, then of amateur athletes who test the product, at least 90% will find the data that the product provides "understandable." 
 
 ## Related Work
 [1] Alkasasbeh, Walaa Jumah et al. “Artificial intelligence and wearables in sport: performance, injury risk, and wellbeing.” Frontiers in artificial intelligence vol. 9 1838507. 29 May. 2026, doi:10.3389/frai.2026.1838507. [https://pmc.ncbi.nlm.nih.gov/articles/PMC13260332/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13260332/)

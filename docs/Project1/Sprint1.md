@@ -32,6 +32,7 @@ At the end of two weeks, we will show a program predicting user training outcome
 We change direction if we cannot find the necessary datasets.
 
 ## Evaluation
+Our system will accurately detect and record health data within 5% of the values current recorded by products on the market (such as apple watches). It will also predict training outcomes within 10% of the actual measured outcomes. Of amateur athletes who test the product, at least 80% of them will be satisfied with it and at least 90% will find the data that the product provides "understandable." 
 
 ## Related Work
 

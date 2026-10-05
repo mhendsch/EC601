@@ -17,6 +17,7 @@ For amateur athletes who want to improve their athletic performance, this projec
 - As a coach, I want to be able to offer my own suggestions to my athletes, without relying completely on AI.
 
 ## Feasibility
+Link to Google Colab where the dataset is downloaded and used: https://colab.research.google.com/drive/119fonKmPCylrmdI8VFXWiOg47uah_88k?usp=sharing
 
 ## Tooling
 Google Colab - Offers GPUs with generous compute time for training a model

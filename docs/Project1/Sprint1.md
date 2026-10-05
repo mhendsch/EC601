@@ -19,6 +19,9 @@ For amateur athletes who want to improve their athletic performance, this projec
 ## Feasibility
 
 ## Tooling
+Google Colab - Offers GPUs with generous compute time for training a model
+Python - Easy to use programming language, already has libraries dedicated to machine learning (see below)
+Pytorch - Existing machine learning library that lets one design their own model, will be useful for making our model
 
 ## Demo Sentence
 At the end of two weeks, we will show a program predicting user training outcomes based on test data working end to end.

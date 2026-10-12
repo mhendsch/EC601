@@ -21,7 +21,9 @@ Link to Google Colab where the dataset is downloaded and used: https://colab.res
 
 ## Tooling
 Google Colab - Offers GPUs with generous compute time for training a model
+
 Python - Easy to use programming language, already has libraries dedicated to machine learning (see below)
+
 Pytorch - Existing machine learning library that lets one design their own model, will be useful for making our model
 
 ## Demo Sentence
